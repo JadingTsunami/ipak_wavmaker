@@ -16,5 +16,6 @@ Prerequisites:
 Instructions:
 
 * `make run`
+* `./makewavs.sh`
 * Created WAV files will be in the `./newsfx/` subdirectory.
 
